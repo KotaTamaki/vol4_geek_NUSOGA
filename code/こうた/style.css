@@ -1,0 +1,7 @@
+#mapcontainer {
+    margin: 100px;
+    color: #00BCD4;
+    border-top: solid 6px #1dc1d6;
+    box-shadow: 0 3px 4px rgba(0, 0, 0, 0.6);/*影*/
+
+  }
